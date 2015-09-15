@@ -1,7 +1,7 @@
 // /*    ---------------                     BEGINNING OF MULTILINE COMMENT OF ALL CODE                      ----------------
 
 
-//    ASSIGNMENT1  - JOE MCDONALD 
+//    ASSIGNMENT1  - JOE MCDONALD   SEPT 2015
 
 //  ---------------------------------------------       STEP 1    camelCase -------
 
