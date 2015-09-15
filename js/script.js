@@ -1,15 +1,15 @@
- /*    ---------------                     BEGINNING OF MULTILINE COMMENT OF ALL CODE                      ----------------
+// /*    ---------------                     BEGINNING OF MULTILINE COMMENT OF ALL CODE                      ----------------
 
 
 //    ASSIGNMENT1  - JOE MCDONALD 
 
-//  ---------------------------------------------      STEP 1    camelCase -------
+//  ---------------------------------------------       STEP 1    camelCase -------
 
-someMonth
-function getCurrentMonth
-CURRENT_MONTH
-summerMonths
-myLibaryFunction
+// someMonth
+// function getCurrentMonth
+// CURRENT_MONTH
+// summerMonths
+// myLibaryFunction
 
 //  -----------------------------------------------      STEP 2  LITERAL EXPRESSIONS -------------
 
@@ -231,4 +231,4 @@ console.log ( "Is the widget an instance of an object:   " + !(widget instanceof
 
 //  --------------------------------------------------------------------------------------------------------------------
 
-*/       //  -------------------            END OF MULTILINE COMMENT                    --------------------------------
+// */       //  -------------------            END OF MULTILINE COMMENT                    --------------------------------
